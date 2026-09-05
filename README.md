@@ -6,7 +6,7 @@ A SQL-based analysis of a Music Store database to uncover insights about custome
 
 ## 🗄️ Database Schema
 
-![Music Store Database Schema](MusicDatabaseSchema.png)
+![Music Store Database Schema](MUSIC_STORE_ANALYSIS/MusicDatabaseSchema.png)
 
 🛠️ Tools & Technologies
 
